@@ -1,6 +1,6 @@
 # pwa
 rwd
-#[demo](https://pwa.netlify.com)
+#[demo](res.php)
 
 
 
